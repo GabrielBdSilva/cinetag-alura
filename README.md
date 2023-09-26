@@ -1,3 +1,5 @@
+<!-- o jsonconfig Basicamente, indica que a base da URL do caminho de qualquer arquivo que estiver dentro da pasta "src", será a pasta "src".  se tiver comentario lá ele buga-->
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
