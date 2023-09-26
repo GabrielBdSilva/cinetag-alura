@@ -1,5 +1,12 @@
 <!-- o jsonconfig Basicamente, indica que a base da URL do caminho de qualquer arquivo que estiver dentro da pasta "src", será a pasta "src".  se tiver comentario lá ele buga-->
+link para acessar o site: https://cinetag-alura-nine.vercel.app/
 
+caso queira rodar localmente será necessario baixar a pasta node_modules com o comando cpm install dentro da pasta da aplicação react e para rodar localmente usar o comando npm start,
+lembrando que caso voce não esteja dentro da pasta cinetag n vai funcionar o comando 
+
+
+
+_______________________________________________________________________________
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
